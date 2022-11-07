@@ -1,3 +1,2 @@
 # Projects
-There is my projects
-\
+There is my projects.
